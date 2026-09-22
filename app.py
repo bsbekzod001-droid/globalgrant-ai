@@ -1,5 +1,5 @@
 import google.generativeai as genai
-genai.configure(api_key="AQ.Ab8RN6I_XXmCOde9p0qihGRQ4rKu5myXYpJjbqw1GI3UifePWQ")M
+genai.configure(api_key="AQ.Ab8RN6I_XXmCOde9p0qihGRQ4rKu5myXYpJjbqw1GI3UifePWQ")
 import streamlit as st
 import google.generativeai as genai
 import random
